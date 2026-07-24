@@ -49,10 +49,6 @@ namespace bakalimm
             else { Console.WriteLine("Geçerli veya Hatasız tuslama yapiniz."); }
             Console.ReadLine();
 
-
-
-
-
         }
     }
 }
