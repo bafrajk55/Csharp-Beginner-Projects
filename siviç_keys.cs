@@ -52,10 +52,6 @@ namespace switcg_case_uyh
                     Console.WriteLine("Hatali Tuşlama Yaptınız.");
                     break;
 
-
-
-
-
             }
         }
     }
