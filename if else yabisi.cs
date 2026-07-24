@@ -50,10 +50,6 @@ namespace IF_ELSE
             else { Console.WriteLine( "Öğrencinin Notu Belirlenemedi Dogru veya Hatasız Not Girisi Yapiniz."  ); }
             Console.ReadLine(); 
            
-
-           
-
-
     }
     }
 }
